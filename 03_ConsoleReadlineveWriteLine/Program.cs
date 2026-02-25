@@ -1,0 +1,15 @@
+﻿//Console.WriteLine("Adiniz: ");
+//string? name=Console.ReadLine();
+//Console.WriteLine("merhaba " + name);
+Console.WriteLine("User Profile");
+Console.WriteLine();
+Console.WriteLine("adiniz: ");
+string name = Console.ReadLine();
+Console.WriteLine("Soyadiniz: ");
+string surname= Console.ReadLine();
+Console.WriteLine("meslek: ");
+string job= Console.ReadLine();
+Console.WriteLine("Ad: " + name);
+Console.WriteLine("Soyadiniz: " + surname);
+Console.WriteLine("meslek: " + job);
+Console.ReadKey();

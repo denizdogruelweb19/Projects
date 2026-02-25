@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="03_ConsoleReadlineveWriteLine/03_ConsoleReadlineveWriteLine.csproj" Id="80840b7d-5392-4277-8ac4-554b4acc3eba" />
   <Project Path="Helloworld/Helloworld.csproj" />
   <Project Path="Veriables/Veriables.csproj" />
 </Solution>
