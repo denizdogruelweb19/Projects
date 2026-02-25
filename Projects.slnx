@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Helloworld/Helloworld.csproj" />
+  <Project Path="Veriables/Veriables.csproj" />
+</Solution>
